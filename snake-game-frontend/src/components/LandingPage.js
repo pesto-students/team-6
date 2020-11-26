@@ -1,3 +1,3 @@
-const LandingPage = () => <p>WRITE CODE HERE</p>;
+const LandingPage = () => <p>Hello Player!</p>;
 
 export default LandingPage;
