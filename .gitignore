@@ -1,5 +1,8 @@
 # dependencies
 /node_modules
+/snake-game-frontend/node_modules
+/snake-game-backend/node_modules
+
 /.pnp
 .pnp.js
 
